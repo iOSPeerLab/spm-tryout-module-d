@@ -1,3 +1,3 @@
 # ModuleD
 
-A description of this package.
+A SPM try out project
